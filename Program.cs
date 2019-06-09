@@ -16,13 +16,13 @@ namespace Class_Example
     }
     /* A more complex class optionally has the following: 
      
-     Precediing the keyword class:  Attributes and class modifiers. The non-nested class   
+     Preceding the keyword class:  Attributes and class modifiers. The non-nested class   
                                     modifiers are public, internal, abstract, sealed,
                                     static, unsafe, and partial
 
      Following YourClassName:       Generic Type Parameters, a base class, and interfaces
 
-     Within the Braces:             Class membes (these are methods, properties, indexers,
+     Within the braces:             Class membes (these are methods, properties, indexers,
                                     events, fields, constructors, overloaded operators,
                                     nested types, and a finalizer) */
     class Program
